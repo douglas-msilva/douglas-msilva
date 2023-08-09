@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A21D6&height=120&section=header"/>
 
 <div>
-  <h1>Oi.</h1>
+  
   <a href="https://github.com/douglas-msilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-msilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-msilva&layout=compact&langs_count=6&theme=radical"/>
