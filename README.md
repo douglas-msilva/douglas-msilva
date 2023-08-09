@@ -17,7 +17,7 @@
 
 
 
-![snake gif](https://github.com/douglas-msilva/douglas-msilva/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/douglas-msilva/douglas-msilva/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
