@@ -16,6 +16,8 @@
  
 
 
-![Snake animation](https://github.com/douglas-msilva/douglas-msilva/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/douglas-msilva/douglas-msilva/blob/output/github-contribution-grid-snake.svg)
+
 
 
