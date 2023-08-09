@@ -5,10 +5,15 @@
   
   <br>
   <br>
+<h2 align="center">
+    
+    -------Me chamo Douglas e atualmente tenho 19 anos---------
+    ---Sou aluno do curso Devquest e estou iniciando minha jornada como programador---
+    ----Front-end Júnior😁----
+    -------⚡Estou disposto a sempre aprender coisas novas⚡---------
 
-    -------Me chamo Douglas e tenho atualmente 19 anos.---------
-    ---Sou aluno do curso Devquest e Estou começando minha jornada como programador Front-end Júnior😁---
-    ------Estou disposto a sempre aprender coisas novas---------
+</h2>
+    
 </div>
 
 
