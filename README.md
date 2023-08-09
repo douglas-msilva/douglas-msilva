@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 <div>
   <h1>Oi.</h1>
   <a href="https://github.com/douglas-msilva">
@@ -23,4 +25,4 @@
 </picture>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
