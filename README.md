@@ -24,8 +24,8 @@
  <h2 align="center">🚀 Status 🚀</h2>
  
 <div align="center">
-  <img height=180em src="https://github-readme-stats-salesp07.vercel.app/api?username=douglas-msilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=9A21D6&rank_icon=github&locale=pt-br"/>
-  <img height=180em src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=douglas-msilva&layout=compact&langs_count=6&theme=radical&title_color=9A21D6&locale=pt-br"/>
+  <img height=180 src="https://github-readme-stats-salesp07.vercel.app/api?username=douglas-msilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=9A21D6&rank_icon=github&locale=pt-br"/>
+  <img height=180 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=douglas-msilva&layout=compact&langs_count=6&theme=radical&title_color=9A21D6&locale=pt-br"/>
 </div>
 <br><br>
     
