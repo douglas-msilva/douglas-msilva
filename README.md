@@ -61,12 +61,10 @@
   <a href="mailto:doulg228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank"> 
-<!--     ^ Colocar linkedin aqui -->
+  <a href="https://www.linkedin.com/in/douglas-msilva/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank"> 
-<!--     ^ Colocar portfólio aqui -->
+  <a href="https://douglas-msilva.github.io/meu-portfolio/" target="_blank"> 
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
