@@ -26,8 +26,8 @@
 <div align="center">
   
   <a href="https://github.com/douglas-msilva">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=douglas-msilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=9A21D6&rank_icon=github&locale=pt-br"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=douglas-msilva&layout=compact&langs_count=6&theme=radical&title_color=9A21D6&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-msilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=9A21D6&rank_icon=github&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-msilva&layout=compact&langs_count=6&theme=radical&title_color=9A21D6&locale=pt-br"/>
 </div>
 
 <br><br>
