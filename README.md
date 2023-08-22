@@ -58,7 +58,7 @@
 
 <h2 align="center">⭐ Socials ⭐</h2>
 <div align="center"> 
-  <a href="mailto:doulg228@gmail.com">
+  <a href="mailto:doulg228@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/douglas-msilva/" target="_blank"> 
